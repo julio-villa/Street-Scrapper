@@ -16,16 +16,17 @@ Here is a table with the set of controls:
 |    C     |      K      |    Kick    |
 |    V     |      L      | Projectile |
 |  Shift   |    Space    |   Block|
-#Damage
+
+# Damage
 The damage dealt by each action:
 
-| Action     | Damage dealt |
-|------------|--------------|
-| Punch      | 5            |
-| Kick       | 10           |
-| Projectile | 10           |
+|    Action    |  Damage dealt  |
+|:------------:|:--------------:|
+|    Punch     |       5        |
+|     Kick     |       10       |
+|  Projectile  |       10       |
 
-#Declaring a winner
+# Declaring a winner
 The match has a time limit of 100 seconds. Once the timer reaches 0, the player with the highest health is declared the winner.
 
 
